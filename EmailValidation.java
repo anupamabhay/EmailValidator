@@ -2,7 +2,6 @@ import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import kong.unirest.HttpResponse;
 import kong.unirest.Unirest;
-
 import java.util.Scanner;
 
 public class EmailValidation {
