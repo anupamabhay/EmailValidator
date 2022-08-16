@@ -5,6 +5,4 @@
 * Also returns confidence score
 
 ## Output/Result 
-
-![image_2022-08-17_04-19-54](https://user-images.githubusercontent.com/24754580/184999621-21767633-15bd-4ffa-a5b7-dfa3bc93d7f1.png)
-
+![-210209_temp](https://user-images.githubusercontent.com/24754580/185000230-d29b1a34-0854-421f-b961-43d48ac0a614.jpg)
